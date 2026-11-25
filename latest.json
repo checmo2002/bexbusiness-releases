@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.3.4",
-    "file": "server/1.3.4/server-1.3.4.pack",
-    "sha256": "2bf254d5ab71cb834fb221b38cf722373a76c160ca61cec8ffc8ebc6d6039db7",
-    "size": 682083,
-    "notes": "Tự cập nhật, thanh tiêu đề riêng kiểu Discord",
+    "version": "1.3.5",
+    "file": "server/1.3.5/server-1.3.5.pack",
+    "sha256": "77e53e462098317e739d74e18c3819da0d84648a0ea65bf657d515b75494bf25",
+    "size": 748287,
+    "notes": "Hỗ trợ app iPhone: thêm vào màn hình chính, vạch Home, đổi máy chủ",
     "date": "2026-11-25"
   },
   "shell": {
