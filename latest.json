@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.4.7",
-    "file": "server/1.4.7/server-1.4.7.pack",
-    "sha256": "8a1cf9ecfbe9104de3c16c9a30c766fc84dc54376334415ccc9fb4fd98fea31b",
-    "size": 2135689,
-    "notes": "Sửa lỗi bản 1.4.6. Ban lãnh đạo không phải chấm công: mục Chấm công của lãnh đạo thành Bảng công và Duyệt đơn",
+    "version": "1.4.8",
+    "file": "server/1.4.8/server-1.4.8.pack",
+    "sha256": "bc0744b12b8f14d7ed60dd8f631ad4b1f35e03c171c2a5739c24854c6d39feb0",
+    "size": 2137439,
+    "notes": "Cột trái gọn: có chữ dưới biểu tượng, nhóm Quản lý riêng; chọn phòng ban bằng thanh lọc trên danh sách kênh; Đăng xuất trong Cài đặt người dùng",
     "date": "2026-11-25"
   },
   "shell": {
