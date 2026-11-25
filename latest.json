@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.4.6",
-    "file": "server/1.4.6/server-1.4.6.pack",
-    "sha256": "deea0fedd89d4c84c8bbf48c76da4f580b4bc755f3462077931dc243a5075211",
-    "size": 2135726,
-    "notes": "Ban lãnh đạo không phải chấm công: không có nút chấm, không có trong bảng công; mục Chấm công của lãnh đạo thành Bảng công và Duyệt đơn",
+    "version": "1.4.7",
+    "file": "server/1.4.7/server-1.4.7.pack",
+    "sha256": "8a1cf9ecfbe9104de3c16c9a30c766fc84dc54376334415ccc9fb4fd98fea31b",
+    "size": 2135689,
+    "notes": "Sửa lỗi bản 1.4.6. Ban lãnh đạo không phải chấm công: mục Chấm công của lãnh đạo thành Bảng công và Duyệt đơn",
     "date": "2026-11-25"
   },
   "shell": {
