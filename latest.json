@@ -8,15 +8,15 @@
     "date": "2026-11-25"
   },
   "shell": {
-    "version": "1.3.5",
+    "version": "1.3.6",
     "parts": [
-      "shell/1.3.5/BexBusiness-Setup-1.3.5.exe.001",
-      "shell/1.3.5/BexBusiness-Setup-1.3.5.exe.002",
-      "shell/1.3.5/BexBusiness-Setup-1.3.5.exe.003"
+      "shell/1.3.6/BexBusiness-Setup-1.3.6.exe.001",
+      "shell/1.3.6/BexBusiness-Setup-1.3.6.exe.002",
+      "shell/1.3.6/BexBusiness-Setup-1.3.6.exe.003"
     ],
-    "sha256": "15e50cbe5b8e6ffc6c368b1f32c4657fce157047161f3abfdb1b3bb6f9db2a83",
-    "size": 111950690,
-    "notes": "Logo BexBusiness mới cho app Windows; thanh dưới 5 mục trên điện thoại; mở ảnh/video/tệp bằng trình xem của app điện thoại",
+    "sha256": "464983acce9365ff38a8e7d0058fcd5937dafb7f0131bd6fb010e174ef0ec1e4",
+    "size": 112055816,
+    "notes": "Biểu tượng và màn hình cài đặt đổi sang màu xanh cổ vịt; kèm sẵn bản 1.4.1",
     "date": "2026-11-25"
   }
 }
