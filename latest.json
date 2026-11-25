@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.4.2",
-    "file": "server/1.4.2/server-1.4.2.pack",
-    "sha256": "0e053fb47e17a604f195e76fde2f05b1ca03e8de26f444b530bf8b1a6c1eb303",
-    "size": 1496507,
-    "notes": "App mở lên là vào thẳng máy chủ chung bexbusiness.xyz, chỉ cần đăng nhập; máy chủ riêng chuyển vào Nâng cao. Máy chủ tự sao lưu hằng ngày.",
+    "version": "1.4.3",
+    "file": "server/1.4.3/server-1.4.3.pack",
+    "sha256": "51a315d0edd6e31b5b79dde6d83bfee2a87de4d54989fb465c71c49d3ebbba84",
+    "size": 1498962,
+    "notes": "Trang giới thiệu giao diện tối cùng màu với app, khung iPhone, phần Bắt đầu 3 bước",
     "date": "2026-11-25"
   },
   "shell": {
