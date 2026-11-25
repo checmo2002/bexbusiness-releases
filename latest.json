@@ -2,9 +2,9 @@
   "server": {
     "version": "1.4.6",
     "file": "server/1.4.6/server-1.4.6.pack",
-    "sha256": "32e6ba91d368c383ace7d81c04d1b6d5cfe121c13f41f7bb2e660d7a5c2c6148",
-    "size": 2134950,
-    "notes": "Ảnh chụp app trên trang giới thiệu đổi theo giao diện sáng/tối",
+    "sha256": "deea0fedd89d4c84c8bbf48c76da4f580b4bc755f3462077931dc243a5075211",
+    "size": 2135726,
+    "notes": "Ban lãnh đạo không phải chấm công: không có nút chấm, không có trong bảng công; mục Chấm công của lãnh đạo thành Bảng công và Duyệt đơn",
     "date": "2026-11-25"
   },
   "shell": {
