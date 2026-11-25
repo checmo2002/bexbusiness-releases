@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.3.9",
-    "file": "server/1.3.9/server-1.3.9.pack",
-    "sha256": "e492a55ea7d20077b2f841b841f1761b6342375e7fe0338602c03488d502858c",
-    "size": 1401403,
-    "notes": "Logo BexBusiness mới cho app Windows; thanh dưới 5 mục trên điện thoại; mở ảnh/video/tệp bằng trình xem của app điện thoại",
+    "version": "1.4.0",
+    "file": "server/1.4.0/server-1.4.0.pack",
+    "sha256": "e427de93a0c91e00d21e453e129f006a5e4ec7206882862366027f04ddf8797e",
+    "size": 1403905,
+    "notes": "Màu thương hiệu mới: xanh cổ vịt (thay màu chàm) cho app, trang giới thiệu, icon và favicon",
     "date": "2026-11-25"
   },
   "shell": {
