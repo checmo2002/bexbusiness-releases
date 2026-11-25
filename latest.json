@@ -1,11 +1,11 @@
 {
   "server": {
-    "version": "1.4.9",
-    "file": "server/1.4.9/server-1.4.9.pack",
-    "sha256": "202dd905a44e4d13550e264eb9d8014b78cdd33f38b51a6da0f1e281c53b34bb",
-    "size": 2139713,
-    "notes": "Cột trái chỉ còn 5 mục hằng ngày + Thêm (Hợp đồng và các trang quản lý); chọn phòng ban bằng một nút thả xuống; ẩn logo công ty khi chỉ thuộc một công ty",
-    "date": "2026-11-25"
+    "version": "1.5.0",
+    "file": "server/1.5.0/server-1.5.0.pack",
+    "sha256": "9d489da02134e979d115b1719450de86ac20c0ed8be8d4bf72efa5a9eb5f067d",
+    "size": 2141403,
+    "notes": "Mục ở cột trái theo chức vụ: Hợp đồng chỉ cho phòng được bật (tự bật cho Kinh doanh, Kế toán), Ban lãnh đạo và quản trị; bảng 'Ai thấy gì' trong Quản trị; hiện lại logo công ty",
+    "date": "2026-11-26"
   },
   "shell": {
     "version": "1.3.9",
