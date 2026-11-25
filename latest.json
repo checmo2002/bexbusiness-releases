@@ -1,0 +1,14 @@
+{
+  "server": {
+    "version": "1.3.4",
+    "file": "server/1.3.4/server-1.3.4.pack",
+    "sha256": "2bf254d5ab71cb834fb221b38cf722373a76c160ca61cec8ffc8ebc6d6039db7",
+    "size": 682083,
+    "notes": "Tự cập nhật, thanh tiêu đề riêng kiểu Discord",
+    "date": "2026-11-25"
+  },
+  "shell": {
+    "version": "1.3.4",
+    "parts": []
+  }
+}
