@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.4.8",
-    "file": "server/1.4.8/server-1.4.8.pack",
-    "sha256": "bc0744b12b8f14d7ed60dd8f631ad4b1f35e03c171c2a5739c24854c6d39feb0",
-    "size": 2137439,
-    "notes": "Cột trái gọn: có chữ dưới biểu tượng, nhóm Quản lý riêng; chọn phòng ban bằng thanh lọc trên danh sách kênh; Đăng xuất trong Cài đặt người dùng",
+    "version": "1.4.9",
+    "file": "server/1.4.9/server-1.4.9.pack",
+    "sha256": "202dd905a44e4d13550e264eb9d8014b78cdd33f38b51a6da0f1e281c53b34bb",
+    "size": 2139713,
+    "notes": "Cột trái chỉ còn 5 mục hằng ngày + Thêm (Hợp đồng và các trang quản lý); chọn phòng ban bằng một nút thả xuống; ẩn logo công ty khi chỉ thuộc một công ty",
     "date": "2026-11-25"
   },
   "shell": {
