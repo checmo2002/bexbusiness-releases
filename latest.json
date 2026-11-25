@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.3.7",
-    "file": "server/1.3.7/server-1.3.7.pack",
-    "sha256": "b857c0408bd4944eb3ce66648c17c9fc5c4ec230e4afcbb7977751a06fb31123",
-    "size": 1388216,
-    "notes": "Trang giới thiệu, dùng thử trên trình duyệt; bộ cài tải được trực tiếp",
+    "version": "1.3.8",
+    "file": "server/1.3.8/server-1.3.8.pack",
+    "sha256": "574c04cd796c093b9f7015301636fb18a6ef4b81a584e49c87e2145c1156aa12",
+    "size": 1393378,
+    "notes": "Logo BexBusiness mới (bong bóng chat) và màu chàm cho app, trang giới thiệu, biểu tượng và favicon",
     "date": "2026-11-25"
   },
   "shell": {
