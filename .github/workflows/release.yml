@@ -1,0 +1,32 @@
+name: Tạo bản Release cho người tải
+# Khi latest.json có bộ cài Windows mới (chia nhiều phần trong shell/<phiên bản>/),
+# ghép lại thành một tệp .exe và đăng lên mục Releases để mọi người tải bằng một đường dẫn cố định:
+# https://github.com/checmo2002/bexbusiness-releases/releases/latest/download/BexBusiness-Setup.exe
+on:
+  push:
+    branches: [main]
+    paths: [latest.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ghép bộ cài và đăng Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VER=$(jq -r '.shell.version' latest.json)
+          N=$(jq -r '.shell.parts | length' latest.json)
+          if [ "$N" = "0" ] || [ "$VER" = "null" ]; then echo "Chưa có bộ cài để đăng"; exit 0; fi
+          if gh release view "v$VER" >/dev/null 2>&1; then echo "Release v$VER đã có"; exit 0; fi
+          jq -r '.shell.parts[]' latest.json | xargs cat > "BexBusiness-Setup-$VER.exe"
+          echo "$(jq -r '.shell.sha256' latest.json)  BexBusiness-Setup-$VER.exe" | sha256sum -c -
+          cp "BexBusiness-Setup-$VER.exe" BexBusiness-Setup.exe
+          NOTES=$(jq -r '.shell.notes // ""' latest.json)
+          gh release create "v$VER" "BexBusiness-Setup-$VER.exe" BexBusiness-Setup.exe \
+            --title "BexBusiness $VER cho Windows" \
+            --notes "Tải **BexBusiness-Setup.exe**, chạy và làm theo hướng dẫn. Nếu Windows báo \"Windows protected your PC\", bấm More info → Run anyway. Sau khi cài, app tự cập nhật. $NOTES" \
+            --latest
