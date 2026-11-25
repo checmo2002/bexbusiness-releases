@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.4.0",
-    "file": "server/1.4.0/server-1.4.0.pack",
-    "sha256": "e427de93a0c91e00d21e453e129f006a5e4ec7206882862366027f04ddf8797e",
-    "size": 1403905,
-    "notes": "Màu thương hiệu mới: xanh cổ vịt (thay màu chàm) cho app, trang giới thiệu, icon và favicon",
+    "version": "1.4.1",
+    "file": "server/1.4.1/server-1.4.1.pack",
+    "sha256": "128c71b5ba8f8efb399ddb8abc525365b9f03b32833d45bdc17684aa8120e757",
+    "size": 1493302,
+    "notes": "Ảnh giao diện trên trang giới thiệu theo màu xanh cổ vịt mới",
     "date": "2026-11-25"
   },
   "shell": {
