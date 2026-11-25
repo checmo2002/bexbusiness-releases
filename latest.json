@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.4.4",
-    "file": "server/1.4.4/server-1.4.4.pack",
-    "sha256": "387b031f8e6fc8139a7c6b58da9d812ad5d94f0211218d98606cea9fe936ad93",
-    "size": 1502501,
-    "notes": "Bảng giá trên trang giới thiệu dùng thẻ gói giống app",
+    "version": "1.4.5",
+    "file": "server/1.4.5/server-1.4.5.pack",
+    "sha256": "90e85688fedca502522be47c34903da4c92d32a1e395b550aad763a25cbb57bd",
+    "size": 1507542,
+    "notes": "Gói, giá, giới hạn đồng nhất giữa app và trang giới thiệu (một nguồn trên máy chủ); nút nâng gói dẫn tới thanh toán; trang giới thiệu có chế độ sáng",
     "date": "2026-11-25"
   },
   "shell": {
