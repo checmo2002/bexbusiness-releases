@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.4.5",
-    "file": "server/1.4.5/server-1.4.5.pack",
-    "sha256": "90e85688fedca502522be47c34903da4c92d32a1e395b550aad763a25cbb57bd",
-    "size": 1507542,
-    "notes": "Gói, giá, giới hạn đồng nhất giữa app và trang giới thiệu (một nguồn trên máy chủ); nút nâng gói dẫn tới thanh toán; trang giới thiệu có chế độ sáng",
+    "version": "1.4.6",
+    "file": "server/1.4.6/server-1.4.6.pack",
+    "sha256": "32e6ba91d368c383ace7d81c04d1b6d5cfe121c13f41f7bb2e660d7a5c2c6148",
+    "size": 2134950,
+    "notes": "Ảnh chụp app trên trang giới thiệu đổi theo giao diện sáng/tối",
     "date": "2026-11-25"
   },
   "shell": {
