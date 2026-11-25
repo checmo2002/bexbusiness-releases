@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.4.3",
-    "file": "server/1.4.3/server-1.4.3.pack",
-    "sha256": "51a315d0edd6e31b5b79dde6d83bfee2a87de4d54989fb465c71c49d3ebbba84",
-    "size": 1498962,
-    "notes": "Trang giới thiệu giao diện tối cùng màu với app, khung iPhone, phần Bắt đầu 3 bước",
+    "version": "1.4.4",
+    "file": "server/1.4.4/server-1.4.4.pack",
+    "sha256": "387b031f8e6fc8139a7c6b58da9d812ad5d94f0211218d98606cea9fe936ad93",
+    "size": 1502501,
+    "notes": "Bảng giá trên trang giới thiệu dùng thẻ gói giống app",
     "date": "2026-11-25"
   },
   "shell": {
