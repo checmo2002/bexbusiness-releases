@@ -1,22 +1,22 @@
 {
   "server": {
-    "version": "1.3.8",
-    "file": "server/1.3.8/server-1.3.8.pack",
-    "sha256": "574c04cd796c093b9f7015301636fb18a6ef4b81a584e49c87e2145c1156aa12",
-    "size": 1393378,
-    "notes": "Logo BexBusiness mới (bong bóng chat) và màu chàm cho app, trang giới thiệu, biểu tượng và favicon",
+    "version": "1.3.9",
+    "file": "server/1.3.9/server-1.3.9.pack",
+    "sha256": "e492a55ea7d20077b2f841b841f1761b6342375e7fe0338602c03488d502858c",
+    "size": 1401403,
+    "notes": "Logo BexBusiness mới cho app Windows; thanh dưới 5 mục trên điện thoại; mở ảnh/video/tệp bằng trình xem của app điện thoại",
     "date": "2026-11-25"
   },
   "shell": {
-    "version": "1.3.4",
+    "version": "1.3.5",
     "parts": [
-      "shell/1.3.4/BexBusiness-Setup-1.3.4.exe.001",
-      "shell/1.3.4/BexBusiness-Setup-1.3.4.exe.002",
-      "shell/1.3.4/BexBusiness-Setup-1.3.4.exe.003"
+      "shell/1.3.5/BexBusiness-Setup-1.3.5.exe.001",
+      "shell/1.3.5/BexBusiness-Setup-1.3.5.exe.002",
+      "shell/1.3.5/BexBusiness-Setup-1.3.5.exe.003"
     ],
-    "sha256": "9de488100d3312dd700030daea21e3d9e626eac17d6dba20756fbea611b3c03b",
-    "size": 111333622,
-    "notes": "Trang giới thiệu, dùng thử trên trình duyệt; bộ cài tải được trực tiếp",
+    "sha256": "15e50cbe5b8e6ffc6c368b1f32c4657fce157047161f3abfdb1b3bb6f9db2a83",
+    "size": 111950690,
+    "notes": "Logo BexBusiness mới cho app Windows; thanh dưới 5 mục trên điện thoại; mở ảnh/video/tệp bằng trình xem của app điện thoại",
     "date": "2026-11-25"
   }
 }
