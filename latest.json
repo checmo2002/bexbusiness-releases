@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.6.3",
-    "file": "server/1.6.3/server-1.6.3.pack",
-    "sha256": "43e8265d08082db3f077c31b835fd0f5d635dd9bf1ca4903b89eeb3c734a1af9",
-    "size": 2703832,
-    "notes": "Thiết lập lần đầu chỉ tạo tài khoản quản trị nền tảng; bảng điều khiển máy chủ có nút Xoá toàn bộ dữ liệu (đổi tên thư mục cũ, không xoá hẳn); sửa lỗi tự cập nhật bộ cài bị dừng giữa chừng.",
+    "version": "1.6.4",
+    "file": "server/1.6.4/server-1.6.4.pack",
+    "sha256": "02176137a3beccc38ddd1d4d634bac87cee6b97f966dc2e647121120b12ad448",
+    "size": 2709761,
+    "notes": "Trang Tải app (/tai-app) và nút tải bộ cài Windows thật: máy chủ tự ghép bộ cài mới nhất thành một tệp .exe; trang giới thiệu có mục Tải app.",
     "date": "2026-11-26"
   },
   "shell": {
