@@ -1,22 +1,22 @@
 {
   "server": {
-    "version": "1.6.2",
-    "file": "server/1.6.2/server-1.6.2.pack",
-    "sha256": "c6fd7db0f2138c98584ca8ec5775fcf2440a43e2f4d8e12f2d85212ff39fe65b",
-    "size": 2703529,
-    "notes": "Máy làm máy chủ chỉ hiện bảng điều khiển (trạng thái, sao lưu, khởi động lại), không còn đăng nhập công ty nào; tài khoản quản trị nền tảng tách riêng, bắt buộc xác thực 2 lớp.",
+    "version": "1.6.3",
+    "file": "server/1.6.3/server-1.6.3.pack",
+    "sha256": "43e8265d08082db3f077c31b835fd0f5d635dd9bf1ca4903b89eeb3c734a1af9",
+    "size": 2703832,
+    "notes": "Thiết lập lần đầu chỉ tạo tài khoản quản trị nền tảng; bảng điều khiển máy chủ có nút Xoá toàn bộ dữ liệu (đổi tên thư mục cũ, không xoá hẳn); sửa lỗi tự cập nhật bộ cài bị dừng giữa chừng.",
     "date": "2026-11-26"
   },
   "shell": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "parts": [
-      "shell/1.4.0/BexBusiness-Setup-1.4.0.exe.001",
-      "shell/1.4.0/BexBusiness-Setup-1.4.0.exe.002",
-      "shell/1.4.0/BexBusiness-Setup-1.4.0.exe.003"
+      "shell/1.4.1/BexBusiness-Setup-1.4.1.exe.001",
+      "shell/1.4.1/BexBusiness-Setup-1.4.1.exe.002",
+      "shell/1.4.1/BexBusiness-Setup-1.4.1.exe.003"
     ],
-    "sha256": "d4e6261fc7621ea281c2a804113ab4c589f0fda819d93ee1d556d474d62cefdc",
-    "size": 113266807,
-    "notes": "Máy làm máy chủ chỉ hiện bảng điều khiển (trạng thái, sao lưu, khởi động lại), không còn đăng nhập công ty nào; tài khoản quản trị nền tảng tách riêng, bắt buộc xác thực 2 lớp.",
+    "sha256": "7ed25af71be4aa7202d1e4b4913a649dc9df0b4a23aa8d0048d6f7ab2d1c81bd",
+    "size": 113193891,
+    "notes": "Thiết lập lần đầu chỉ tạo tài khoản quản trị nền tảng; bảng điều khiển máy chủ có nút Xoá toàn bộ dữ liệu (đổi tên thư mục cũ, không xoá hẳn); sửa lỗi tự cập nhật bộ cài bị dừng giữa chừng.",
     "date": "2026-11-26"
   }
 }
