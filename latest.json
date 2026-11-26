@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.6.5",
-    "file": "server/1.6.5/server-1.6.5.pack",
-    "sha256": "cc23fe0bd1d96ac45da5f802ee79e0367a4e8655473c7842afca4431a46a9d8f",
-    "size": 2711097,
-    "notes": "Trang Tải app: thêm biểu tượng cho từng thiết bị và nút tải.",
+    "version": "1.6.6",
+    "file": "server/1.6.6/server-1.6.6.pack",
+    "sha256": "da97b662c7b7b7452a4c26850afa5cd639c8be8f8f74eb8d3f388c22cfe2d68e",
+    "size": 2711916,
+    "notes": "Tải app Windows nhanh hơn: bộ cài có địa chỉ theo phiên bản để Cloudflare giữ bản sao gần người dùng; hỗ trợ tải tiếp khi rớt mạng.",
     "date": "2026-11-26"
   },
   "shell": {
