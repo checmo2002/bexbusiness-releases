@@ -1,22 +1,22 @@
 {
   "server": {
-    "version": "1.6.1",
-    "file": "server/1.6.1/server-1.6.1.pack",
-    "sha256": "13805d1cb8094d676da80531b13a7c5aa46381ded0651b0621a32732977ea33e",
-    "size": 2699798,
-    "notes": "Trang giới thiệu trên điện thoại: ảnh và tính năng điện thoại, hướng dẫn thêm vào màn hình chính; tự chuyển http sang https; sửa thẻ duyệt đơn bị bóp hẹp trên điện thoại; sửa hai nút Đăng ký công ty trùng nhau.",
+    "version": "1.6.2",
+    "file": "server/1.6.2/server-1.6.2.pack",
+    "sha256": "c6fd7db0f2138c98584ca8ec5775fcf2440a43e2f4d8e12f2d85212ff39fe65b",
+    "size": 2703529,
+    "notes": "Máy làm máy chủ chỉ hiện bảng điều khiển (trạng thái, sao lưu, khởi động lại), không còn đăng nhập công ty nào; tài khoản quản trị nền tảng tách riêng, bắt buộc xác thực 2 lớp.",
     "date": "2026-11-26"
   },
   "shell": {
-    "version": "1.3.9",
+    "version": "1.4.0",
     "parts": [
-      "shell/1.3.9/BexBusiness-Setup-1.3.9.exe.001",
-      "shell/1.3.9/BexBusiness-Setup-1.3.9.exe.002",
-      "shell/1.3.9/BexBusiness-Setup-1.3.9.exe.003"
+      "shell/1.4.0/BexBusiness-Setup-1.4.0.exe.001",
+      "shell/1.4.0/BexBusiness-Setup-1.4.0.exe.002",
+      "shell/1.4.0/BexBusiness-Setup-1.4.0.exe.003"
     ],
-    "sha256": "5812d231b3ad01ce1ef3a59bc7d467ba7394c30a578a1b7e03cf52353ccdb4a1",
-    "size": 112061528,
-    "notes": "Mở app là kiểm tra và cài bản mới trước khi vào",
-    "date": "2026-11-25"
+    "sha256": "d4e6261fc7621ea281c2a804113ab4c589f0fda819d93ee1d556d474d62cefdc",
+    "size": 113266807,
+    "notes": "Máy làm máy chủ chỉ hiện bảng điều khiển (trạng thái, sao lưu, khởi động lại), không còn đăng nhập công ty nào; tài khoản quản trị nền tảng tách riêng, bắt buộc xác thực 2 lớp.",
+    "date": "2026-11-26"
   }
 }
