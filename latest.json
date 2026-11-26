@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.6.4",
-    "file": "server/1.6.4/server-1.6.4.pack",
-    "sha256": "02176137a3beccc38ddd1d4d634bac87cee6b97f966dc2e647121120b12ad448",
-    "size": 2709761,
-    "notes": "Trang Tải app (/tai-app) và nút tải bộ cài Windows thật: máy chủ tự ghép bộ cài mới nhất thành một tệp .exe; trang giới thiệu có mục Tải app.",
+    "version": "1.6.5",
+    "file": "server/1.6.5/server-1.6.5.pack",
+    "sha256": "cc23fe0bd1d96ac45da5f802ee79e0367a4e8655473c7842afca4431a46a9d8f",
+    "size": 2711097,
+    "notes": "Trang Tải app: thêm biểu tượng cho từng thiết bị và nút tải.",
     "date": "2026-11-26"
   },
   "shell": {
