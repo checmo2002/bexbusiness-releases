@@ -1,10 +1,10 @@
 {
   "server": {
-    "version": "1.6.0",
-    "file": "server/1.6.0/server-1.6.0.pack",
-    "sha256": "045226cc35c8e00ba77a5071d93f0a68aef284d86ae9c7d0ea1ce4df69f1bf1a",
-    "size": 2192503,
-    "notes": "Ai cũng đăng ký được (cá nhân/doanh nghiệp), mời vào công ty bằng link/QR có Nhân sự duyệt, Tìm việc (Beta), hồ sơ nhân sự, ca làm, bảng lương, đơn tạm ứng/thanh toán/mua sắm/công tác, thông báo bắt buộc đọc, thông báo đẩy trên trình duyệt, trang điều khoản, /api/health.",
+    "version": "1.6.1",
+    "file": "server/1.6.1/server-1.6.1.pack",
+    "sha256": "13805d1cb8094d676da80531b13a7c5aa46381ded0651b0621a32732977ea33e",
+    "size": 2699798,
+    "notes": "Trang giới thiệu trên điện thoại: ảnh và tính năng điện thoại, hướng dẫn thêm vào màn hình chính; tự chuyển http sang https; sửa thẻ duyệt đơn bị bóp hẹp trên điện thoại; sửa hai nút Đăng ký công ty trùng nhau.",
     "date": "2026-11-26"
   },
   "shell": {
